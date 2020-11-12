@@ -137,7 +137,7 @@ void login() {
 	system("cls");
 	cout << "\n\n\n";
 	cout << "\t\t            操作系统课程设计-模拟文件系统" << endl << endl << endl << endl << endl << endl;
-	cout << "\t\t             作者：邵子睿" << endl << endl << endl;
+	cout << "\t\t             作者：Alex" << endl << endl << endl;
 	ifstream in("user.dat");
 	if (!in) {
 		cout << "打开文件出错！即将退出！" << endl;
